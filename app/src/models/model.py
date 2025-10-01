@@ -3,7 +3,7 @@ import json
 
 class MistralModel:
     def __init__(self):
-        self.config = json.load(open("models/secrest_config.json"))
+        self.config = json.load(open("models/secret_config.json"))
         self.api_key = self.config.get("api_key")
         self.url = self.config.get("url")
         self.model = self.config.get("mistral_model")
