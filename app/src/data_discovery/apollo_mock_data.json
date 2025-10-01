@@ -1,0 +1,44 @@
+[
+  {
+  "company": {
+    "name": "Reliance Retail",
+    "domain": "relianceretail.com",
+    "website": "https://www.relianceretail.com",
+    "industry": "Retail / Supermarket / Hypermarket",
+    "size": "18,000+ stores",
+    "employees": 24500,
+    "location": "Mumbai, Maharashtra, India",
+    "revenue_rank": "Largest retailer in India by revenue",
+    "product_categories": ["Foods", "Groceries", "Apparel", "Footwear", "Electronics", "Home Improvement"]
+  },
+  "contacts": [
+    {
+      "title": "CEO",
+      "name": "Dev Sharma",  
+      "email": "ceo@relianceretail.com",
+      "phone": null
+    }
+  ]
+},
+   {
+  "company": {
+    "name": "Croma (Infiniti Retail Limited)",
+    "domain": "croma.com",
+    "website": "https://www.croma.com",
+    "industry": "Retail / Consumer Electronics & Durables",
+    "size": "550+ stores",
+    "employees": null,
+    "location": "Mumbai, India",
+    "product_range": "500+ brands, over 20,000 products",
+    "area_served": "200+ cities in India"
+  },
+  "contacts": [
+    {
+      "title": "CEO",
+      "name": "Shibashish Roy", 
+      "email": "shibashish.roy@croma.com",
+      "phone": null
+    }
+  ]
+}
+]
