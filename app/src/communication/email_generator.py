@@ -60,9 +60,9 @@ Best regards,
 Sabahat Ahmed
 Business Development Manager  
 Lucidya - Social Listening & Customer Experience
-📞 +966 11 454 9797
-✉️ sabahat@lucidya.com
-🌐 www.lucidya.com
+Mobile:+966 11 454 9797
+Email: sabahat@lucidya.com
+Website:www.lucidya.com
 """
         
         try:
